@@ -1,0 +1,6 @@
+{
+  "name": "Paze Credit Tracker",
+  "description": "Track $10 Paze promotional statement credits across your credit cards with punch cards, saturated card alerts, vendor logging, and cross-platform sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
